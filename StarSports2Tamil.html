@@ -1,0 +1,57 @@
+
+
+
+<html>
+<head>
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow" />
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="refresh" content="1440" />
+<meta charset="utf-8">
+<title>Tamil Box Live</title>
+<script src="https://content.jwplatform.com/libraries/SAHhwvZq.js"></script>
+
+<link rel="stylesheet" href="./player.css">
+    <style>
+#player {
+            position: absolute;
+            width: 100% !important;
+            height: 100% !important;
+        }
+    </style>
+	
+	<script> 
+var channel = location.search.substring(1);
+   function cam() {
+	 document.location.href="/player.php"+channel;
+	}
+	</script>
+</head>
+
+<body style="margin:0">
+    
+    <!-- Video Player -->
+  <div id="player"></div>
+
+<script>
+
+        jwplayer("player").setup({
+            file: 'https://v18tataplaysyndication.akamaized.net/bpk-tv/StarSports_2_Tam_voot_MOB/output03/index.m3u8?hdnea=exp=1745075784~acl=/*~hmac=73383612d16f4b16efb433bc243a78678fc2b2a93e95bc52c66c3e2f8e2e17e9',
+            width: "100%",
+            height: "100%",
+			autostart: "true",
+			aspectratio: "16:9",
+            stretching: "exactfit",
+            aboutlink: "index.html",
+            logo: {"file":"https://mdas109.github.io/Anas18/Anas.jpg","margin":"1", "position":"top-left","hide":"false","link":"index.html"},
+            autostart: false,
+            type: "hls",
+ skin: {
+            name: "netflix"
+        },
+
+        });
+    </script>
+
+</body>
+</html>
