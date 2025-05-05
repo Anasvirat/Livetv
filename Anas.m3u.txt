@@ -1,0 +1,49 @@
+EXTM3U
+
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAYYNyHRNJBJP7N2k8eRZR1c0bzpjh2_OnpRM5ZD1har6_R6vfOtYlyNQ&s=10" group-title="Cricket",Tamil Hotstar
+https://mdas109.github.io/TBL/Hotstar.m3u8
+
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://i.postimg.cc/Nfz7CWJp/image.jpg" group-title="Cricket",Star Sports Select 1 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=109993
+
+#EXTINF:-1 tvg-id="ts463" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/7082/597082-h.jpg" group-title="Cricket",Star Sports Select 2 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=109994
+
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4942/1424942-a-6e211260a748.jpg" group-title="Cricket",Star Sports 1 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=109987
+
+#EXTINF:-1 tvg-id="ts235" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4943/1424943-a-e3a5d328a913.jpg" group-title="Cricket",Star Sports 2 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=109988
+
+#EXTINF:-1 tvg-id="ts24" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1200/sources/r1/cms/prod/4946/1424946-a-2c52ad77f1dd" group-title="Sports",Star Sports 1 Hindi HD 
+#EXTVLCOPT:http-user-agent=Denver1769
+http://port.denver1769.fun/oplx5.php?id=167573
+
+
+#EXTINF:-1 group-title="Cricket" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4951/1424951-a-eda1818aa83d.jpg",Star Sports 1 Tamil HD
+#EXTVLCOPT:http-user-agent=Denver1769
+http://exm3u.extraott.com:80/live/2249871453/1991220000/400201942.m3u8
+
+#EXTINF:-1 tvg-id="ts1067" tvg-chno="56" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJ61K-8N3c5plhXMh1-PLm4yyGWn_unNubFquS8gHhl4abH9vbxgoe7nV&s=10" group-title="Anas IPL",Star Sports 1 Tamil HD
+https://tamilultratv.co.in/master.m3u8?c=SPTAMIL&server=1|Referer=https://tamilultratv.co.in/
+
+#EXTINF:-1 tvg-id="ts1067" tvg-chno="56" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Anas Kids",Sony Yay tamil
+https://tamilultratv.co.in/master.m3u8?c=SONY_YAY_TAMIL&server=1|Referer=https://tamilultratv.co.in/
+
+
+#EXTINF:-1 tvg-id="ts1067" tvg-chno="56" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWQ7IKvy6KuWXYgaAoixG75eluK9W23WxjYH_C11kAonggj12gaEgN4QE&s=10" group-title="Anas IPL",Star Sports 2 Tamil HD
+https://mdas109.github.io/m3u8/Anas.m3u8
+
+
+
+
+
+
